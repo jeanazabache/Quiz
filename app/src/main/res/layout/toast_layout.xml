@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/background_button_false"
+    android:gravity="center"
+    android:orientation="horizontal"
+    android:padding="15dp"
+    android:id="@+id/linear_layout_toast">
+
+    <ImageView
+        android:id="@+id/icon_toast"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="6dp"
+        android:src="@drawable/ic_next" />
+
+    <TextView
+        android:id="@+id/toast_textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="6dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginEnd="6dp"
+        android:text="Respuesta"
+        android:textColor="#FFFFFF" />
+
+</LinearLayout>

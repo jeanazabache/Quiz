@@ -1,0 +1,25 @@
+<resources>
+
+    <string name="button_trampa">Trampa</string>
+    <string name="toast_juicio">No es correcto hacer trampa</string>
+    <string name="mostrar_respuesta_text">Mostrar respuesta</string>
+    <string name="ver_respuesta_text">Ver respuesta</string>
+
+
+
+    <string name="app_name">GeoQuiz</string>
+    <string name="question_text">Canberra is the capital of Australia</string>
+    <string name="question_text1">The pacific Ocean is large than de Atlantic Ocean</string>
+    <string name="question_text2">The Suez Canal connect the Red Sea and the Indian Ocean</string>
+    <string name="question_text3">The source of the Nile River is in Egypt</string>
+    <string name="question_text4">The Amazon River is the longest river int the americas</string>
+    <string name="question_text5">Lake Baikal in the world\'s oldest and deepest freshwater</string>
+
+
+    <string name="true_button">True</string>
+    <string name="lbl_false_button">False</string>
+    <string name="incorrect_toast">Incorrecto!</string>
+    <string name="correct_toast">Correcto!</string>
+    <string name="next_button">Siguiente</string>
+    <string name="back_button">Anterior</string>
+</resources>
